@@ -37,7 +37,8 @@
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="42" height="42" alt="Elasticsearch" /><br/><sub>Elasticsearch</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" /><br/><sub>Redis</sub></td>
-    <td align="center" width="95"></td>
-    <td align="center" width="95"></td>
+    <td align="center" width="85"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="42" height="42" alt="GitHub Actions" /><br/><sub>GitHub Actions</sub></td>
+    <td align="center" width="85"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg" width="42" height="42" alt="GitLab Runner" /><br/><sub>GitLab Runner</sub></td>
+
   </tr>
 </table>
