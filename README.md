@@ -1,10 +1,14 @@
+<img src="./src-readme/header.png"/>
+
+# I'm a DevOps Engineer
+
 <h3>Technologies</h3>
 
 <table>
   <tr>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" /><br/><sub>AWS</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="42" height="42" alt="Terraform" /><br/><sub>Terraform</sub></td>
-    <td align="center" width="95"><img src="https://terragrunt.gruntwork.io/_astro/grunty.SMno5sUQ.svg" width="42" height="42" alt="Terragrunt" /><br/><sub>Terragrunt</sub></td>
+    <td align="center" width="95"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hashicorp.svg" width="42" height="42" alt="Terragrunt" /><br/><sub>Terragrunt</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="42" height="42" alt="Ansible" /><br/><sub>Ansible</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /><br/><sub>Linux</sub></td>
     <td align="center" width="95"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /><br/><sub>Docker</sub></td>
