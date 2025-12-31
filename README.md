@@ -99,10 +99,10 @@
             <br/><sub>Loki</sub>
         </td>
         <td align="center" width="95">
-            <a href="https://www.elastic.co/elasticsearch/" target="_blank" >
-                <img src="./src-readme/table_iamges/elasticsearch.svg" width="42" height="42" alt="Elasticsearch"/>
+            <a href="https://www.elastic.co/elastic-stack/" target="_blank" >
+                <img src="./src-readme/table_iamges/elk.svg" width="42" height="42" alt="Elastic Stack (ELK)"/>
             </a>
-            <br/><sub>Elasticsearch</sub>
+            <br/><sub>ELK_Stack</sub>
         </td>
         <td align="center" width="95">
             <a href="https://www.postgresql.org/" target="_blank" >
