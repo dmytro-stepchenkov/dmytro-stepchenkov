@@ -1,6 +1,19 @@
 ![logo](./src-readme/header.png)
 
-## I'm a DevOps Engineer
+## Hi, I'm Dmytro — DevOps Engineer
+
+I build and operate reliable cloud infrastructure on AWS using IaC (Terraform/Terragrunt), Kubernetes, and GitOps.
+
+- Focus: AWS • Terraform/Terragrunt • Kubernetes • CI/CD • Observability
+- Interests: cost optimization (FinOps), security fundamentals, production-ready automation
+- Currently: DevOps Engineer (AWS)
+
+## Featured projects
+- **AWS Client VPN → private RDS access (Terraform)** — networking, routing, security groups, authentication
+- **Terragrunt live infrastructure (dev/prod)** — remote state, modules, dependencies, environments
+- **Observability stack** — Prometheus/Grafana/Loki, dashboards, alerts
+- **FinOps / Cloud Cost Tracker** — cost reports, budgets, anomalies (WIP)
+
 
 ### Technologies
 
