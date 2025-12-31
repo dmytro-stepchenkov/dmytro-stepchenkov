@@ -1,8 +1,8 @@
 ![logo](./src-readme/header.png)
 
-# I'm a DevOps Engineer
+## I'm a DevOps Engineer
 
-<h3>Technologies</h3>
+### Technologies
 
 <table>
     <tr>
